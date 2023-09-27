@@ -1,0 +1,66 @@
+.container{
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-image: linear-gradient(lime,green);
+  color: white;
+  width: 100%;
+  
+}
+
+.navbar .navbar-brand {
+  color: white;
+  font-size: 40px;
+  font-weight: 800px;
+  text-shadow: 2px 2px 2px lime;}
+.navbar ul{
+  margin-left: 900px;
+  color: white;
+}
+.navbar .nav-link {
+  color:white;
+ font-weight: 600;
+ font-size: 25px;
+}
+
+.Homepage{
+ background-color: black;
+  /* opacity: 0.5; */
+height: 700px;
+width: 100%;
+float: left;
+}
+.Homepage h2{
+  position: relative;
+  top: 200px;
+left: 20px;
+color: white;
+
+}
+.Homepage button{
+  position: relative;
+  top: 250px;
+  background-color: lime;
+
+}
+
+.card {
+  margin-top: 50px;
+  background-image: linear-gradient(lime,lightgreen);
+}
+.title{
+  background-color:white;
+  color: black;
+  height: 120px;
+  margin-top: -15px;
+}
+
+#col{
+  color: white;
+  border: 1px solid white;
+  height: 700px;
+  width: 450px;
+  position: relative;
+  left: 100px;
+}
